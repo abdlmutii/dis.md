@@ -16,7 +16,7 @@ To use the discord-md-parser library, you first need to import it into your Java
 ```js
 const markdown = require('dis.md');
 ```
-Then, you can use the parseDiscordMarkdownToHTML function to convert Discord markdown syntax to HTML. For example:
+Then, you can use the `parse` function to convert Discord markdown syntax to HTML. For example:
 
 ```js
 const md = '**BEST SALES**, _LOL_, __LOL__, **LOL**, ~~LOL~~, `LOL`,\n```js\nconsole.log("Hello, world!");\n```';
@@ -27,6 +27,15 @@ This will output the following HTML:
 
 ```html
 <strong>BEST SALES</strong>, <em>LOL</em>, <u>LOL</u>, <strong>LOL</strong>, <s>LOL</s>, <span style="background-color: black; font-family: monospace; color: white;">LOL</span><br /><pre>console.log("Hello, world!");</pre>
+```
+PS: you should be able to use dis.md on the browser!
+```js
+<script src="discord-md.js"></script>
+<script>
+// Call the function
+const result = parse('**Hello world!**');
+console.log(result);
+</script>
 ```
 
 ## Credits
