@@ -1,5 +1,5 @@
 # dis.md
-
+<a href="https://discord.gg/y9KUzq2yaT"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a><br>
 A simple JavaScript library for parsing Discord markdown syntax and converting it to HTML.
 
 ## Installation
@@ -30,7 +30,7 @@ This will output the following HTML:
 ```
 
 ## Credits
-Credits goes to [abdlmutii](https://github.com/abdlmutii), if you like this npm package please remember to check other work i've done on github and star [this repo](https://github.vom/abdlmutii/dis.md).
+Credits goes to [abdlmutii](https://github.com/abdlmutii), if you like this npm package please remember to check other work i've done on github and star [this repo](https://github.com/abdlmutii/dis.md).
 
 ## License
 This library is licensed under the MIT License.
