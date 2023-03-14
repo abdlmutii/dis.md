@@ -1,5 +1,5 @@
 # dis.md
-<a href="https://discord.gg/y9KUzq2yaT"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a><br>
+<a href="https://discord.gg/8UqPNbeYBv"><img src="https://img.shields.io/discord/1077492444574261339?style=for-the-badge&color=5865F2&logo=discord&logoColor=white&label=Abdlmu'tii" alt="Discord server" /></a><br>
 A simple JavaScript library for parsing Discord markdown syntax and converting it to HTML.
 
 ## Installation
